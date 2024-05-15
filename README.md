@@ -1,3 +1,5 @@
+
+<pre>
 1 - to run this project you need : 
         + node.js to be installed
         + a web server for the database like xampp or wampp ...
@@ -23,3 +25,4 @@ the endpoints :
     - http://localhost:5000/api/book
     - http://localhost:5000/api/borrowing
     - http://localhost:5000/api/user
+</pre>
